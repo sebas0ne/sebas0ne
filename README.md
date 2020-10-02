@@ -11,6 +11,8 @@
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql"></code>
    <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+   <code><img height="25" src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter"></code>
+   <code><img height="25" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3"></code>
    <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
