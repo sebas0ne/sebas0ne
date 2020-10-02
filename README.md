@@ -1,6 +1,15 @@
 <div align="center">
-   <h1>Hi everyone, I'm <a style="color: #e63420 !important">Sebastian</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
+   <h1>Hi everyone, I'm <a>Sebasti&aacute;n Alb&aacute;n</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
 </div>
+
+```javascript
+const sebas0ne = {
+  pronouns: "He" | "him",
+  code: [Javascript, PHP, HTML, CSS],
+  tools: [Vue, Node, CodeIgniter],
+  databases: [MySQL, SQL, MongoDB],
+}
+```
 
 <div align="center">
 
