@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi everyone, I'm <a>Sebastian</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
+   <h1>Hi everyone, I'm <a style="color: #e63420 !important">Sebastian</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
 </div>
 
 <div align="center">
