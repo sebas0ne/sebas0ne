@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, I'm Sebastian ⚡
 
 <!--
 **Sebas0ne/sebas0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
