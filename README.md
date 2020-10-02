@@ -5,7 +5,7 @@
 ```javascript
 const sebas0ne = {
   pronouns: "He" | "him",
-  code: [Javascript, PHP, HTML, CSS],
+  code: [PHP, Javascript, HTML, CSS],
   tools: [Vue, Node, CodeIgniter],
   databases: [MySQL, SQL, MongoDB],
 }
