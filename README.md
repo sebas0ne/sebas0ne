@@ -7,8 +7,6 @@
     <!-- <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif" /> -->
 </div>
 
-<hr>
-
 ```javascript
 const sebas0ne = {
   pronouns: "He" | "him",
@@ -34,3 +32,4 @@ const sebas0ne = {
    <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </div>
+<hr>
