@@ -7,6 +7,8 @@
     <!-- <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif" /> -->
 </div>
 
+<hr>
+
 ```javascript
 const sebas0ne = {
   pronouns: "He" | "him",
