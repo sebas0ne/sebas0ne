@@ -1,7 +1,7 @@
 <div align="center"> 
-   <h1><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45">
+   <h1><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
       Hi everyone, I'm <a>Sebasti&aacute;n Alb&aacute;n</a>
-      <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45">
+      <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
    </h1>
      <!-- <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/GonOvAHwPK0PC/giphy.gif" /> -->
     <img align="center" alt="GIF" height="245px" src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif" />
