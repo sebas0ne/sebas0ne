@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40" style="margin-bottom: 5px">
    </h1>
      <!-- <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/GonOvAHwPK0PC/giphy.gif" /> -->
-    <img align="center" alt="GIF" height="245px" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" />
+    <img align="center" alt="GIF" height="245px" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" style="margin-bottom: 5px;"/>
 </div>
 
 ```javascript
