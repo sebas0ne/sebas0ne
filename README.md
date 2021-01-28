@@ -31,5 +31,6 @@ const sebas0ne = {
    <code><img src="https://img.icons8.com/color/26/000000/css3.png" alt="Logo de CSS3"/></code>
    <code><img src="https://img.icons8.com/color/26/000000/git.png" alt="Logo de Git"/></code>
    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+   <code><img src="https://img.icons8.com/color/30/000000/npm.png" alt="Logo de NPM"/></code>
 </div>
 <hr>
