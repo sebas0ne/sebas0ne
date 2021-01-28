@@ -25,7 +25,7 @@ const sebas0ne = {
    <code><img src="https://img.icons8.com/color/26/000000/javascript.png" alt="Logo de JavaScript"/></code>   
    <code><img src="https://img.icons8.com/ios/40/000000/mysql-logo.png" alt="Logo de MySQL"/></code>
    <code><img src="https://img.icons8.com/color/32/000000/mongodb.png" alt="Logo de Mongodb"/></code>   
-   <code><img src="https://img.icons8.com/windows/32/000000/vuejs.png" alt="Logo de Vuejs"/></code>
+   <code><img src="https://img.icons8.com/color/26/000000/vue-js.png" alt="Logo de Vuejs"/></code>
    <code><img src="https://img.icons8.com/color/34/000000/nodejs.png" alt="Logo de Nodejs"/></code>
    <code><img src="https://img.icons8.com/color/26/000000/html-5.png" alt="Logo de HTML5"/></code>
    <code><img src="https://img.icons8.com/color/26/000000/css3.png" alt="Logo de CSS3"/></code>
