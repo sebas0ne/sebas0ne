@@ -27,8 +27,8 @@ const sebas0ne = {
    <code><img src="https://img.icons8.com/color/32/000000/mongodb.png" alt="Logo de Mongodb"/></code>   
    <code><img src="https://img.icons8.com/windows/32/000000/vuejs.png" alt="Logo de Vuejs"/></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
-   <code><img height="25" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5"></code>
-   <code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3"></code>
+   <code><img src="https://img.icons8.com/color/26/000000/html-5.png" alt="Logo de HTML5"/></code>
+   <code><img src="https://img.icons8.com/color/26/000000/css3.png" alt="Logo de CSS3"/></code>
    <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </div>
