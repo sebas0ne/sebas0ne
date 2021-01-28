@@ -21,9 +21,9 @@ const sebas0ne = {
 
 ### Languages, tools, libraries and frameworks:
 
-   <code><i class="devicon-php-plain colored"></i></code>
-   <code><img height="25" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
-   <code><img height="25" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql"></code>
+   <code><img src="https://img.icons8.com/ios/26/000000/php.png" alt="Logo de PHP"/></code>
+   <code><img src="https://img.icons8.com/ios/26/000000/javascript.png" alt="Logo de JavaScript"/></code>   
+   <code><img src="https://img.icons8.com/ios/26/000000/mysql.png" alt="Logo de MySQL"/></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs"></code>
