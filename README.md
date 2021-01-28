@@ -24,9 +24,8 @@ const sebas0ne = {
    <code><img src="https://img.icons8.com/officel/26/000000/php-logo.png" alt="Logo de PHP"/></code>
    <code><img src="https://img.icons8.com/color/26/000000/javascript.png" alt="Logo de JavaScript"/></code>   
    <code><img src="https://img.icons8.com/ios/40/000000/mysql-logo.png" alt="Logo de MySQL"/></code>
-   <code><img src="https://img.icons8.com/color/32/000000/mongodb.png" alt="Logo de Mongodb"/></code>
-   <code><img height="25" src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter"></code>
-   <code><img height="25" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs"></code>
+   <code><img src="https://img.icons8.com/color/32/000000/mongodb.png" alt="Logo de Mongodb"/></code>   
+   <code><img src="https://img.icons8.com/windows/32/000000/vuejs.png" alt="Logo de Vuejs"/></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3"></code>
