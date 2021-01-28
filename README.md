@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 <div align="center"> 
    <h1><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40" style="margin-bottom: 5px">
       Hi everyone, I'm <a>Sebasti&aacute;n Alb&aacute;n</a>
@@ -20,7 +21,7 @@ const sebas0ne = {
 
 ### Languages, tools, libraries and frameworks:
 
-   <code><img height="25" src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php"></code>
+   <code><i class="devicon-php-plain colored"></i></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql"></code>
    <code><img height="25" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>
