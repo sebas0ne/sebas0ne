@@ -12,7 +12,7 @@
 const sebas0ne = {
   pronouns: "He" | "him",
   code: [PHP, Javascript, HTML, CSS],
-  tools: [Vue, Node, CodeIgniter, Nuxt, Angular],
+  tools: [Vue, Node, CodeIgniter, Nuxt, Angular, Cells],
   databases: [MySQL, SQL, MongoDB],
 }
 ```
