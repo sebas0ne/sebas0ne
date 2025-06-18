@@ -5,14 +5,14 @@
       <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40" style="margin-bottom: 5px">
    </h1>
      <!-- <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/GonOvAHwPK0PC/giphy.gif" /> -->
-    <img align="center" alt="GIF" height="245px" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" style="margin-bottom: 5px;"/>
+    <img align="center" alt="GIF" height="245px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25qOGRhZWNnN3F6b2xmc3V0cWpmbTg4eHN0dXFwYjFkcTU2MzU4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jvzxn0c33thWUg7wqO/giphy.gif" style="margin-bottom: 5px;"/>
 </div>
 
 ```javascript
 const sebas0ne = {
   pronouns: "He" | "him",
   code: [PHP, Javascript, HTML, CSS],
-  tools: [Vue, Node, CodeIgniter, Nuxt, Angular, Cells],
+  tools: [Vue, React, Angular, Cells],
   databases: [MySQL, SQL, MongoDB],
 }
 ```
