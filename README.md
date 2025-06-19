@@ -10,8 +10,8 @@
 ```javascript
 const sebas0ne = {
   pronouns: "He" | "him",
-  code: [PHP, Javascript, HTML, CSS],
-  tools: [Vue, React, Angular, Cells],
+  code: [PHP, Javascript, Python],
+  tools: [Vue, React, Angular],
   databases: [MySQL, SQL, MongoDB],
 }
 ```
